@@ -1,0 +1,10 @@
+flask
+flask-restful
+flask-sqlalchemy
+sqlalchemy
+sqlalchemy-utils
+
+psycopg2-binary # for postgres
+
+pytest
+requests
